@@ -5,4 +5,5 @@ Before logging in you must sign up first. After signing up you are able to sign 
 
 dist is where the executable is
 
-Video:
+Brief Video:
+https://youtu.be/LiUMRYQStcY
