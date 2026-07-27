@@ -7,6 +7,7 @@ dist is where the executable is
 
 Brief Video:
 https://youtu.be/LiUMRYQStcY
-
+Project download:
+https://jjaydenlee770.itch.io/signup-page
 
 This project was AI-assisted to help me understand concepts and debug problems. However not much was used.
